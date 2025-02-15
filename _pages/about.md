@@ -90,14 +90,6 @@ My research interests:
 
 ---
 ## Research Activities  
-
-### 🔬 Research Interests  
-<ul>
-  <li>🌍 Remote Sensing, Information Fusion, Artificial Intelligence</li>
-  <li>🛰️ Earth Surface Observation, Deep Space Mapping, Planetary Exploration</li>
-  <li>📡 Large-scale mapping and detection of Earth and other planets (Lunar, Mars, Asteroid Bennu)</li>
-</ul>
-
 ---
 ### 📝 Reviewing Activities  
 - **ISPRS** Journal of Photogrammetry and Remote Sensing
@@ -105,10 +97,9 @@ My research interests:
 - **IEEE** Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
 - **IEEE** Geoscience and Remote Sensing Letters (GRSL)
 - **SPIE** Journal of Applied Remote Sensing (JARS)
-
+- ...
 ---
-
-### 🎤 Conference Presentations  
+### 🎤 Conference Activities  
 - **2024** – IGARSS _(🎤 Oral)_  
 - **2021** – The 6th National Imaging Spectrum Earth Observation (NISEO) _(🎤 Oral)_  
 - **2020** – IGWG _(🎤 Oral)_  
@@ -116,7 +107,7 @@ My research interests:
 - **2019** – MultiTemp _(🎤 Oral & 🎗️ Volunteer)_  
 ---
 
-## 📌 Research Projects  
+## Research Projects  
 <table style="width:100%; font-size:16px; border-collapse: collapse;">
   <tr>
     <th style="background-color: #f2f2f2; text-align: left; padding: 10px;">Year</th>
