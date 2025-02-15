@@ -33,7 +33,7 @@ My research interests:
 ---
 ## Experiences
 ---
-### 🎓 Education Experience
+### Education Experiences
 <table style="width:100%; font-size:16px;">
   <tr>
     <th>Duration</th>
@@ -66,7 +66,7 @@ My research interests:
 </table>
 
 ---
-### 💼 Work & Overseas Experience
+### Work & Overseas Experiences
 <table style="width:100%; font-size:16px;">
   <tr>
     <th>Duration</th>
@@ -89,9 +89,24 @@ My research interests:
 </table>
 
 ---
+### Project Experiences 
+- **2021 – Present** – National Natural Science Foundation of China (42071324)
+  - Designed an automatic shallow-deep feature fusion network for VHR image classification;
+  - Designed an automatic multi-temporal feature fusion network for multi-temporal image classification.
+- **2018 – Present** – National Key R & D Program of China (2018YFB050500)
+  - Designed a two-stage multiple feature fusion approach for VHR image classification (based on machine learning);
+  - Designed a series of feature fusion networks for VHR image classification (based on deep learning).
+- **2019 – 2020** – Key Laboratory of Cities’ Mitigation and Adaptation to Climate Change in Shanghai, CMACC Open Foundation (QHBHSYS201904)
+  - Analyzed the spatio-temporal characteristics of urban LULC and LST over Shanghai during 2009–2019.
+- **2017 – 2019** – National Natural Science Foundation of China (41601354)
+  - Designed an automatic change detection method for large-scale scene remote sensing images;
+  - Proposed a novel fire index-based burned area change detection approach using Landsat-8 data;
+  - Designed a feature fusion method based on Landsat-8 OLI-SWIR and TIRS images for burned area change detection.
+
+---
 ## Research Activities  
 ---
-### 📝 Reviewing Activities  
+### Reviewing Activities  
 - **ISPRS** Journal of Photogrammetry and Remote Sensing
 - **IEEE** Transactions on Geoscience and Remote Sensing (TGRS)
 - **IEEE** Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
@@ -99,44 +114,12 @@ My research interests:
 - **SPIE** Journal of Applied Remote Sensing (JARS)
 - ...
 ---
-### 🎤 Conference Activities  
-- **2024** – IGARSS _(🎤 Oral)_  
-- **2021** – The 6th National Imaging Spectrum Earth Observation (NISEO) _(🎤 Oral)_  
-- **2020** – IGWG _(🎤 Oral)_  
-- **2019** – IGARSS _(🖼️ Poster)_  
-- **2019** – MultiTemp _(🎤 Oral & 🎗️ Volunteer)_  
+### Conference Activities  
+- **2024** – IGARSS _(Oral)_  
+- **2021** – The 6th National Imaging Spectrum Earth Observation (NISEO) _(Oral)_  
+- **2020** – IGWG _(Oral)_  
+- **2019** – IGARSS _(Poster)_  
+- **2019** – MultiTemp _(Oral & 🎗️ Volunteer)_  
 ---
 
-## Research Projects  
-<table style="width:100%; font-size:16px; border-collapse: collapse;">
-  <tr>
-    <th style="background-color: #f2f2f2; text-align: left; padding: 10px;">Year</th>
-    <th style="background-color: #f2f2f2; text-align: left; padding: 10px;">Project</th>
-    <th style="background-color: #f2f2f2; text-align: left; padding: 10px;">Key Contributions</th>
-  </tr>
-  <tr>
-    <td>2021 - Present</td>
-    <td>National Natural Science Foundation of China (42071324)</td>
-    <td>
-      🔹 Designed **automatic shallow-deep feature fusion networks** for VHR image classification<br>
-      🔹 Developed **multi-temporal feature fusion networks** for image classification, detection, and monitoring
-    </td>
-  </tr>
-  <tr>
-    <td>2018 - 2021</td>
-    <td>National Key R & D Program of China (2018YFB0505000)</td>
-    <td>
-      🔹 Proposed a **two-stage multiple feature fusion approach** for VHR image classification<br>
-      🔹 Designed a series of **feature fusion networks** for remote sensing analysis
-    </td>
-  </tr>
-  <tr>
-    <td>2017 - 2019</td>
-    <td>National Natural Science Foundation of China (41601354)</td>
-    <td>
-      🔹 Developed an **automatic change detection method** for large-scale remote sensing images<br>
-      🔹 Proposed a **fire index-based burned area change detection approach** using Landsat-8 data<br>
-      🔹 Designed a **feature fusion method** based on Landsat-8 OLI-SWIR and TIRS images
-    </td>
-  </tr>
-</table>
+
