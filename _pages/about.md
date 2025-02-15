@@ -14,7 +14,9 @@ profile:
       <a href="https://www.researchgate.net/profile/Yongjie-Zheng"><i class="fa-brands fa-linkedin fa-2x"></i></a>
       <a href="https://scholar.google.com/citations?user=XXXXXXX"><i class="ai ai-google-scholar-square ai-2x"></i></a>
       <a href="https://github.com/MissYongjie/"><i class="fa-brands fa-square-github fa-2x"></i></a>
-      
+      <a href="https://www.researchgate.net/profile/Yongjie-Zheng"><i class="ai ai-researchgate-square ai-2x"></i></a>
+      <a href="https://orcid.org/my-orcid?orcid=0000-0002-7030-6713"><i class="ai ai-orcid-square ai-2x"></i></a>
+      <a href="mailto:yongjie.zheng@unitn.it"><i class="fa fa-envelope fa-2x"></i></a>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 awards: true
@@ -29,6 +31,8 @@ My research interests:
   <li>🛰️ Earth Surface Observation, Deep Space Mapping, Planetary Exploration</li>
   <li>📡 Large-scale mapping of Earth and other planets (Lunar, Mars, Asteroid Bennu)</li>
 </ul>
+
+---
 
 ---
 ## Experiences
