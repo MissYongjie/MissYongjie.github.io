@@ -9,16 +9,13 @@ profile:
   align: left
   image: bio_1.jpg # bio_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info 🔗: >
       <a href="/assets/pdf/cv.pdf"><i class="ai ai-cv-square ai-2x"></i></a>
-      <a href="https://www.linkedin.com/in/yu-changqian/"><i class="fa-brands fa-linkedin fa-2x"></i></a>
-      <a href="https://scholar.google.com/citations?user=Hv-vj2sAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a>
-      <a href="https://github.com/yu-changqian"><i class="fa-brands fa-square-github fa-2x"></i></a>
-      <a href="https://x.com/ChangqianYu"><i class="fa-brands fa-square-x-twitter fa-2x"></i></a>
-      <a href="https://www.zhihu.com/people/yu-chang-qian"><i class="fa-brands fa-zhihu fa-2x"></i></a>
-      
+      <a href="https://www.researchgate.net/profile/Yongjie-Zheng"><i class="fa-brands fa-linkedin fa-2x"></i></a>
+      <a href="https://scholar.google.com/citations?user=XXXXXXX"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+      <a href="https://github.com/MissYongjie/"><i class="fa-brands fa-square-github fa-2x"></i></a>
 
-news: true # includes a list of news items
+# news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 awards: true
 social: false # includes social icons at the bottom of the page
@@ -33,29 +30,8 @@ My research interests:
 </ul>
 
 ---
+---
 ## Experiences
-### 💼 Work & Overseas Experience
-<table style="width:100%; font-size:16px;">
-  <tr>
-    <th>Duration</th>
-    <th>Position</th>
-    <th>Institution</th>
-    <th>Location</th>
-  </tr>
-  <tr>
-    <td>2024.09 - 2024.12</td>
-    <td>Academic Visitor</td>
-    <td><a href="https://www.tu-berlin.de/">Technische Universität Berlin</a></td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>2021.06 - 2022.06</td>
-    <td>Machine Learning Engineer</td>
-    <td><a href="https://www.fabric-eyes.com/">Shanghai Fabric Eyes Artificial Intelligence Technology Co., Ltd</a></td>
-    <td>China</td>
-  </tr>
-</table>
-
 ---
 ### 🎓 Education Experience
 <table style="width:100%; font-size:16px;">
@@ -89,3 +65,25 @@ My research interests:
   </tr>
 </table>
 
+---
+### 💼 Work & Overseas Experience
+<table style="width:100%; font-size:16px;">
+  <tr>
+    <th>Duration</th>
+    <th>Position</th>
+    <th>Institution</th>
+    <th>Location</th>
+  </tr>
+  <tr>
+    <td>2024.09 - 2024.12</td>
+    <td>Academic Visitor</td>
+    <td><a href="https://www.tu-berlin.de/">Technische Universität Berlin</a></td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2021.06 - 2022.06</td>
+    <td>Machine Learning Engineer</td>
+    <td><a href="https://www.fabric-eyes.com/">Shanghai Fabric Eyes Artificial Intelligence Technology Co., Ltd</a></td>
+    <td>China</td>
+  </tr>
+</table>
