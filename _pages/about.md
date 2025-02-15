@@ -29,15 +29,63 @@ My research interests:
 <ul>
   <li>🌍 Remote Sensing, Information Fusion, Artificial Intelligence</li>
   <li>🛰️ Earth Surface Observation, Deep Space Mapping, Planetary Exploration</li>
-  <li>📡 Large-scale mapping and detection of Earth and other planets (Lunar, Mars, Asteroid Bennu)</li>
+  <li>📡 Large-scale mapping of Earth and other planets (Lunar, Mars, Asteroid Bennu)</li>
 </ul>
 
-I obtained my Ph.D. degree from School of Artificial Intelligence and Automation, **Huazhong University of Science and Technology** in 2021, under the expert guidance of [Prof. Nong Sang](https://scholar.google.com/citations?user=ky_ZowEAAAAJ&hl=zh-CN) and [Prof. Changxin Gao](https://scholar.google.com/citations?user=4tku-lwAAAAJ&hl=zh-CN). My academic journey was further enriched by a visiting Ph.D. position at the Australian Institute for Machine Learning, **University of Adelaide**, where I worked closely with [Prof. Chunhua Shen](https://scholar.google.com/citations?user=Ljk2BvIAAAAJ&hl=zh-CN). During my doctoral studies, I received the **Excellent Doctoral Dissertation Award** (one of only 10 students in the country).
+---
+## Experiences
+### 💼 Work & Overseas Experience
+<table style="width:100%; font-size:16px;">
+  <tr>
+    <th>Duration</th>
+    <th>Position</th>
+    <th>Institution</th>
+    <th>Location</th>
+  </tr>
+  <tr>
+    <td>2024.09 - 2024.12</td>
+    <td>Academic Visitor</td>
+    <td><a href="https://www.tu-berlin.de/">Technische Universität Berlin</a></td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2021.06 - 2022.06</td>
+    <td>Machine Learning Engineer</td>
+    <td><a href="https://www.fabric-eyes.com/">Shanghai Fabric Eyes Artificial Intelligence Technology Co., Ltd</a></td>
+    <td>China</td>
+  </tr>
+</table>
 
-My industry experience includes being a research intern at **Microsoft Research Asia** and **Megvii (Face++)**, where I collaborated with [Dr. Jingdong Wang](https://jingdongwang2017.github.io/), [Dr. Gang Yu](https://www.skicyyu.org/), and [Dr. Jian Sun](https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en). I was part of the winning team at the COCO & Mapillary Panoptic Segmentation Challenge 2018.
+---
+### 🎓 Education Experience
+<table style="width:100%; font-size:16px;">
+  <tr>
+    <th>Duration</th>
+    <th>Degree</th>
+    <th>Institution</th>
+    <th>Supervisor</th>
+    <th>GPA (Rank)</th>
+  </tr>
+  <tr>
+    <td>2022.12 - Present</td>
+    <td>Ph.D.</td>
+    <td><a href="https://www.unitn.it/">University of Trento</a></td>
+    <td><a href="https://rslab.disi.unitn.it/people/#LorenzoBruzzone">Prof. Lorenzo Bruzzone</a></td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>2018 - 2021</td>
+    <td>M.A.</td>
+    <td><a href="https://www.tongji.edu.cn/">Tongji University</a></td>
+    <td><a href="https://scholar.google.com/citations?user=SicongLiu">Prof. Sicong Liu</a></td>
+    <td><b>4.62/5.00</b> (1/74)</td>
+  </tr>
+  <tr>
+    <td>2014 - 2018</td>
+    <td>B.E.</td>
+    <td><a href="https://www.hpu.edu.cn/">Henan Polytechnic University</a></td>
+    <td>-</td>
+    <td><b>3.98/5.00</b> (1/49)</td>
+  </tr>
+</table>
 
-My passion lies in tackling complex problems in computer vision and artificial intelligence. I have made significant contributions to the fields of semantic/panoptic segmentation, behavior prediction, and vision-language models. Among my most notable works are:
-- [BiSeNet](https://openaccess.thecvf.com/content_ECCV_2018/html/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.html) (Rank 10 in ECCV 2018 Top-10 Influential Papers & Citation > 2500).
-- [BiSeNetV2](https://link.springer.com/article/10.1007/s11263-021-01515-2) (IJCV & ESI & ESI-Hot & Citation > 1000).
-- [DFNet](https://openaccess.thecvf.com/content_cvpr_2018/html/Yu_Learning_a_Discriminative_CVPR_2018_paper.html) (CVPR & Citation > 900)
-- [Lite-HRNet](https://openaccess.thecvf.com/content/CVPR2021/html/Yu_Lite-HRNet_A_Lightweight_High-Resolution_Network_CVPR_2021_paper.html) (CVPR & Citation > 300)
