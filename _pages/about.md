@@ -15,7 +15,6 @@ profile:
       <a href="https://scholar.google.com/citations?user=XXXXXXX"><i class="ai ai-google-scholar-square ai-2x"></i></a>
       <a href="https://github.com/MissYongjie/"><i class="fa-brands fa-square-github fa-2x"></i></a>
 
-# news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 awards: true
 social: false # includes social icons at the bottom of the page
@@ -30,8 +29,8 @@ My research interests:
 </ul>
 
 ---
----
 ## Experiences
+
 ---
 ### Education Experiences
 <table style="width:100%; font-size:16px;">
@@ -105,6 +104,7 @@ My research interests:
 
 ---
 ## Research Activities  
+
 ---
 ### Reviewing Activities  
 - **ISPRS** Journal of Photogrammetry and Remote Sensing
@@ -113,13 +113,15 @@ My research interests:
 - **IEEE** Geoscience and Remote Sensing Letters (GRSL)
 - **SPIE** Journal of Applied Remote Sensing (JARS)
 - ...
+
 ---
 ### Conference Activities  
 - **2024** – IGARSS _(Oral)_  
 - **2021** – The 6th National Imaging Spectrum Earth Observation (NISEO) _(Oral)_  
 - **2020** – IGWG _(Oral)_  
 - **2019** – IGARSS _(Poster)_  
-- **2019** – MultiTemp _(Oral & 🎗️ Volunteer)_  
+- **2019** – MultiTemp _(Oral & 🎗️ Volunteer)_
+
 ---
 
 
