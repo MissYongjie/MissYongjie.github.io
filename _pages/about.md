@@ -9,15 +9,17 @@ profile:
   align: left
   image: bio_1.jpg # bio_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info 🔗: >
+  more_info : >
       <a href="/assets/pdf/cv.pdf"><i class="ai ai-cv-square ai-2x"></i></a>
       <a href="https://www.researchgate.net/profile/Yongjie-Zheng"><i class="fa-brands fa-linkedin fa-2x"></i></a>
       <a href="https://scholar.google.com/citations?user=XXXXXXX"><i class="ai ai-google-scholar-square ai-2x"></i></a>
       <a href="https://github.com/MissYongjie/"><i class="fa-brands fa-square-github fa-2x"></i></a>
+      
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 awards: true
 social: false # includes social icons at the bottom of the page
+
 ---
 Yongjie Zheng is currently a Ph.D. student at [Remote Sensing Laboratory (RSLab)](https://rslab.disi.unitn.it/), University of Trento, advised by  [Prof. Lorenzo Bruzzone](https://rslab.disi.unitn.it/people/#LorenzoBruzzone). She was also an academic visitor of Technische Universität Berlin, Germany. Her current research is focusing on AI for Earth and planetary surface mapping.
 
@@ -119,8 +121,8 @@ My research interests:
 - **2024** – IGARSS _(Oral)_  
 - **2021** – The 6th National Imaging Spectrum Earth Observation (NISEO) _(Oral)_  
 - **2020** – IGWG _(Oral)_  
-- **2019** – IGARSS _(Poster)_  
-- **2019** – MultiTemp _(Oral & 🎗️ Volunteer)_
+- **2019** – MultiTemp _(Oral & Volunteer)_
+- ...
 
 ---
 
