@@ -87,3 +87,65 @@ My research interests:
     <td>China</td>
   </tr>
 </table>
+
+---
+## Research Activities  
+
+### 🔬 Research Interests  
+<ul>
+  <li>🌍 Remote Sensing, Information Fusion, Artificial Intelligence</li>
+  <li>🛰️ Earth Surface Observation, Deep Space Mapping, Planetary Exploration</li>
+  <li>📡 Large-scale mapping and detection of Earth and other planets (Lunar, Mars, Asteroid Bennu)</li>
+</ul>
+
+---
+### 📝 Reviewing Activities  
+- **ISPRS** Journal of Photogrammetry and Remote Sensing
+- **IEEE** Transactions on Geoscience and Remote Sensing (TGRS)
+- **IEEE** Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
+- **IEEE** Geoscience and Remote Sensing Letters (GRSL)
+- **SPIE** Journal of Applied Remote Sensing (JARS)
+
+---
+
+### 🎤 Conference Presentations  
+- **2024** – IGARSS _(🎤 Oral)_  
+- **2021** – The 6th National Imaging Spectrum Earth Observation (NISEO) _(🎤 Oral)_  
+- **2020** – IGWG _(🎤 Oral)_  
+- **2019** – IGARSS _(🖼️ Poster)_  
+- **2019** – MultiTemp _(🎤 Oral & 🎗️ Volunteer)_  
+---
+
+## 📌 Research Projects  
+<table style="width:100%; font-size:16px; border-collapse: collapse;">
+  <tr>
+    <th style="background-color: #f2f2f2; text-align: left; padding: 10px;">Year</th>
+    <th style="background-color: #f2f2f2; text-align: left; padding: 10px;">Project</th>
+    <th style="background-color: #f2f2f2; text-align: left; padding: 10px;">Key Contributions</th>
+  </tr>
+  <tr>
+    <td>2021 - Present</td>
+    <td>National Natural Science Foundation of China (42071324)</td>
+    <td>
+      🔹 Designed **automatic shallow-deep feature fusion networks** for VHR image classification<br>
+      🔹 Developed **multi-temporal feature fusion networks** for image classification, detection, and monitoring
+    </td>
+  </tr>
+  <tr>
+    <td>2018 - 2021</td>
+    <td>National Key R & D Program of China (2018YFB0505000)</td>
+    <td>
+      🔹 Proposed a **two-stage multiple feature fusion approach** for VHR image classification<br>
+      🔹 Designed a series of **feature fusion networks** for remote sensing analysis
+    </td>
+  </tr>
+  <tr>
+    <td>2017 - 2019</td>
+    <td>National Natural Science Foundation of China (41601354)</td>
+    <td>
+      🔹 Developed an **automatic change detection method** for large-scale remote sensing images<br>
+      🔹 Proposed a **fire index-based burned area change detection approach** using Landsat-8 data<br>
+      🔹 Designed a **feature fusion method** based on Landsat-8 OLI-SWIR and TIRS images
+    </td>
+  </tr>
+</table>
