@@ -23,9 +23,9 @@ awards: true
 social: false # includes social icons at the bottom of the page
 
 ---
-Yongjie Zheng is currently a Ph.D. student at [Remote Sensing Laboratory (RSLab)](https://rslab.disi.unitn.it/), University of Trento, advised by  [Prof. Lorenzo Bruzzone](https://rslab.disi.unitn.it/people/#LorenzoBruzzone). She was also an academic visitor of Technische Universität Berlin, Germany. Her current research is focusing on AI for Earth and planetary surface mapping.
+Yongjie Zheng is currently a Ph.D. student at [Remote Sensing Laboratory (RSLab)](https://rslab.disi.unitn.it/), **University of Trento**, advised by  [Prof. Lorenzo Bruzzone](https://rslab.disi.unitn.it/people/#LorenzoBruzzone). She was also an academic visitor of **Technische Universität Berlin**, Germany. Her current research is focusing on **AI for Earth and planetary surface mapping**.
 
-My research interests:
+Her **research interests**:
 <ul>
   <li>🌍 Remote Sensing, Information Fusion, Artificial Intelligence</li>
   <li>🛰️ Earth Surface Observation, Deep Space Mapping, Planetary Exploration</li>
@@ -34,7 +34,7 @@ My research interests:
 
 ---
 
----
+***
 ## Experiences
 
 ---
@@ -95,30 +95,21 @@ My research interests:
 
 ---
 ### Project Experiences 
-- **2021 – Present** – National Natural Science Foundation of China (42071324)
+- **2021 – Present** – **National Natural Science Foundation of China** (42071324)
   - Designed an automatic shallow-deep feature fusion network for VHR image classification;
   - Designed an automatic multi-temporal feature fusion network for multi-temporal image classification.
-- **2018 – Present** – National Key R & D Program of China (2018YFB050500)
+- **2018 – Present** – **National Key R & D Program of China** (2018YFB050500)
   - Designed a two-stage multiple feature fusion approach for VHR image classification (based on machine learning);
   - Designed a series of feature fusion networks for VHR image classification (based on deep learning).
-- **2019 – 2020** – Key Laboratory of Cities’ Mitigation and Adaptation to Climate Change in Shanghai, CMACC Open Foundation (QHBHSYS201904)
+- **2019 – 2020** – **Key Laboratory of Cities’ Mitigation and Adaptation to Climate Change in Shanghai, CMACC Open Foundation** (QHBHSYS201904)
   - Analyzed the spatio-temporal characteristics of urban LULC and LST over Shanghai during 2009–2019.
-- **2017 – 2019** – National Natural Science Foundation of China (41601354)
+- **2017 – 2019** – **National Natural Science Foundation of China** (41601354)
   - Designed an automatic change detection method for large-scale scene remote sensing images;
   - Proposed a novel fire index-based burned area change detection approach using Landsat-8 data;
   - Designed a feature fusion method based on Landsat-8 OLI-SWIR and TIRS images for burned area change detection.
 
----
+***
 ## Research Activities  
-
----
-### Reviewing Activities  
-- **ISPRS** Journal of Photogrammetry and Remote Sensing
-- **IEEE** Transactions on Geoscience and Remote Sensing (TGRS)
-- **IEEE** Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
-- **IEEE** Geoscience and Remote Sensing Letters (GRSL)
-- **SPIE** Journal of Applied Remote Sensing (JARS)
-- ...
 
 ---
 ### Conference Activities  
@@ -129,5 +120,15 @@ My research interests:
 - ...
 
 ---
+### Reviewing Activities  
+- **ISPRS** Journal of Photogrammetry and Remote Sensing
+- **IEEE** Transactions on Geoscience and Remote Sensing (TGRS)
+- **IEEE** Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
+- **IEEE** Geoscience and Remote Sensing Letters (GRSL)
+- **SPIE** Journal of Applied Remote Sensing (JARS)
+- ...
+
+
+***
 
 
