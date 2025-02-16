@@ -639,3 +639,9 @@ jsonresume:
   - languages
   - interests
   - references
+
+sass:
+  style: compressed
+
+include:
+  - assets/css/style.css
