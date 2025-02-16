@@ -76,7 +76,7 @@ function toggleImages(id) {
   var imgDiv = document.getElementById(id);
   var button = imgDiv.previousElementSibling;
   if (imgDiv.style.display === "none" || imgDiv.style.display === "") {
-    imgDiv.style.display = "block";
+    imgDiv.style.display = "flex";
     button.innerText = "Show Less";
   } else {
     imgDiv.style.display = "none";
