@@ -11,11 +11,11 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info : >
       <a href="/assets/pdf/cv.pdf"><i class="ai ai-cv-square ai-2x"></i></a>
-      <a href="https://www.researchgate.net/profile/Yongjie-Zheng"><i class="fa-brands fa-linkedin fa-2x"></i></a>
+      <a href="[https://www.researchgate.net/profile/Yongjie-Zheng](https://www.linkedin.com/in/yongjie-zheng-119489299/?originalSubdomain=it)"><i class="fa-brands fa-linkedin fa-2x"></i></a>
       <a href="https://scholar.google.com/citations?user=XXXXXXX"><i class="ai ai-google-scholar-square ai-2x"></i></a>
       <a href="https://github.com/MissYongjie/"><i class="fa-brands fa-square-github fa-2x"></i></a>
-      <a href="https://www.researchgate.net/profile/Yongjie-Zheng"><i class="ai ai-researchgate-square ai-2x"></i></a>
-      <a href="https://orcid.org/my-orcid?orcid=0000-0002-7030-6713"><i class="ai ai-orcid-square ai-2x"></i></a>
+      <a href="[https://www.researchgate.net/profile/Yongjie-Zheng](https://www.researchgate.net/profile/Yongjie-Zheng-5)"><i class="ai ai-researchgate-square ai-2x"></i></a>
+      <a href="[https://orcid.org/my-orcid?orcid=0000-0002-7030-6713](https://orcid.org/0000-0002-7030-6713)"><i class="ai ai-orcid-square ai-2x"></i></a>
       <a href="mailto:yongjie.zheng@unitn.it"><i class="fa fa-envelope fa-2x"></i></a>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
