@@ -10,42 +10,55 @@ nav_order: 3
 <!-- _pages/projects.md -->
 <div class="projects">
 
-<ol>
+<style>
+  .project-container {
+    margin-bottom: 40px;
+    padding: 15px;
+    border-bottom: 2px solid #ddd;
+  }
+  .project-title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .project-year {
+    font-size: 16px;
+    color: #555;
+    font-style: italic;
+  }
+  .project-description {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  .project-images {
+    display: flex;
+    gap: 15px;
+    margin-top: 10px;
+  }
+  .project-images img {
+    width: 48%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  }
+</style>
 
-<li>
-  <strong>National Natural Science Foundation of China (41601354):</strong>
-  <span class="proj-year">2018-2019</span>
-  <p>Research on Multi-view Level Analysis Method of Remote Sensing Fine Change Detection</p>
-  <ul>
-    <li>Proposed a novel fire index-based burned area change detection approach using Landsat-8 data.</li>
-    <li>Designed an automatic change detection method for large-scale remote sensing images.</li>
-  </ul>
-</li>
+{% assign projects = site.data.projects %}
 
-<li>
-  <strong>Key Laboratory of Cities’ Mitigation and Adaptation to Climate Change:</strong>
-  <span class="proj-year">2019-2020</span>
-  <p>Analyzed the spatio-temporal characteristics of urban LULC and LST over Shanghai during 2009-2019.</p>
-</li>
-
-<li>
-  <strong>National Key R&D Program of China (2018YFB0505000):</strong>
-  <span class="proj-year">2019-2022</span>
-  <p>Research on Global Comprehensive Observation Technologies and Shared Service System</p>
-  <ul>
-    <li>Designed a two-stage multiple feature fusion approach for VHR image classification (based on machine learning).</li>
-  </ul>
-</li>
-
-<li>
-  <strong>National Natural Science Foundation of China (42071324):</strong>
-  <span class="proj-year">2021-2024</span>
-  <p>Research on Automatic Change Detection Method of Hyperspectral Image with Multi-temporal Deep Features</p>
-  <ul>
-    <li>Designed a multitemporal deep fusion network for HR image classification (based on deep learning).</li>
-  </ul>
-</li>
-
-</ol>
+{% for project in projects %}
+  <div class="project-container">
+    <div class="project-title">{{ project.title }}</div>
+    <div class="project-year">{{ project.year }}</div>
+    <div class="project-description">{{ project.description }}</div>
+    <ul>
+      {% for point in project.details %}
+        <li>{{ point }}</li>
+      {% endfor %}
+    </ul>
+    <div class="project-images">
+      <img src="{{ project.image1 | relative_url }}" alt="Project Image 1">
+      <img src="{{ project.image2 | relative_url }}" alt="Project Image 2">
+    </div>
+  </div>
+{% endfor %}
 
 </div>
