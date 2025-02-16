@@ -7,6 +7,9 @@ nav: true
 nav_order: 3
 ---
 
+<link rel="stylesheet" href="/assets/css/style.css">
+
+
 <li>
   <strong><a href="LINK_TO_PROJECT_1">National Natural Science Foundation of China (41601354)</a>:</strong>
   <span class="proj-year">2018-2019</span>
