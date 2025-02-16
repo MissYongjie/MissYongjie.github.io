@@ -1,0 +1,31 @@
+- title: "National Natural Science Foundation of China (41601354)"
+  year: "2018-2019"
+  description: "Research on Multi-view Level Analysis Method of Remote Sensing Fine Change Detection"
+  details:
+    - "Proposed a novel fire index-based burned area change detection approach using Landsat-8 data."
+    - "Designed an automatic change detection method for large-scale remote sensing images."
+  image1: "/assets/img/projects/project11.png"
+  image2: "/assets/img/projects/project12.png"
+
+- title: "Key Laboratory of Cities’ Mitigation and Adaptation to Climate Change"
+  year: "2019-2020"
+  description: "Analyzed the spatio-temporal characteristics of urban LULC and LST over Shanghai during 2009-2019."
+  details: []
+  image1: "/assets/img/projects/project21.png"
+  image2: "/assets/img/projects/project22.png"
+
+- title: "National Key R&D Program of China (2018YFB0505000)"
+  year: "2019-2022"
+  description: "Research on Global Comprehensive Observation Technologies and Shared Service System"
+  details:
+    - "Designed a two-stage multiple feature fusion approach for VHR image classification (based on machine learning)."
+  image1: "/assets/img/projects/project31.png"
+  image2: "/assets/img/projects/project32.png"
+
+- title: "National Natural Science Foundation of China (42071324)"
+  year: "2021-2024"
+  description: "Research on Automatic Change Detection Method of Hyperspectral Image with Multi-temporal Deep Features"
+  details:
+    - "Designed a multitemporal deep fusion network for HR image classification (based on deep learning)."
+  image1: "/assets/img/projects/project41.png"
+  image2: "/assets/img/projects/project42.png"
