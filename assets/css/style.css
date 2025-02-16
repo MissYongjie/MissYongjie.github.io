@@ -34,10 +34,11 @@
 }
 
 .image-container img {
-  width: 45%;  /* 限制图片宽度 */
-  max-width: 500px; /* 最大宽度 */
+  width: 30%;  /* 让图片更小 */
+  max-width: 300px; /* 限制最大宽度 */
   height: auto;
-  margin: 5px 10px;
+  margin: 5px 5px;
   border-radius: 5px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
+
