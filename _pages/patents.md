@@ -6,11 +6,10 @@ nav: true
 nav_order: 3
 ---
 
-## 📜 Patents
+## Patents
 
 Below is a list of granted and pending patents.
 
-### 🔹 Remote Sensing Change Detection Patents
 1. **A Novel Change Detection Method for Burned Area based on SWIR Bands of Landsat-8 OLI**  
    *Sicong Liu, Yongjie Zheng, Xiaohua Tong, et al.*  
    **Patent Number:** CN109583300B *(in Chinese)*  
