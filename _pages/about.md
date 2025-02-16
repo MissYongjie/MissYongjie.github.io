@@ -95,15 +95,15 @@ Her **research interests**:
 
 ---
 ### Project Experiences 
-- **2021 – Present** – **National Natural Science Foundation of China** (42071324)
+- **2021 – 2024** – **National Natural Science Foundation of China** (42071324)
   - Designed an automatic shallow-deep feature fusion network for VHR image classification;
   - Designed an automatic multi-temporal feature fusion network for multi-temporal image classification.
-- **2018 – Present** – **National Key R & D Program of China** (2018YFB050500)
+- **2019 – 2022** – **National Key R & D Program of China** (2018YFB050500)
   - Designed a two-stage multiple feature fusion approach for VHR image classification (based on machine learning);
   - Designed a series of feature fusion networks for VHR image classification (based on deep learning).
 - **2019 – 2020** – **Key Laboratory of Cities’ Mitigation and Adaptation to Climate Change in Shanghai, CMACC Open Foundation** (QHBHSYS201904)
   - Analyzed the spatio-temporal characteristics of urban LULC and LST over Shanghai during 2009–2019.
-- **2017 – 2019** – **National Natural Science Foundation of China** (41601354)
+- **2018 – 2019** – **National Natural Science Foundation of China** (41601354)
   - Designed an automatic change detection method for large-scale scene remote sensing images;
   - Proposed a novel fire index-based burned area change detection approach using Landsat-8 data;
   - Designed a feature fusion method based on Landsat-8 OLI-SWIR and TIRS images for burned area change detection.
