@@ -12,7 +12,7 @@ profile:
   more_info : >
       <a href="/assets/pdf/cv.pdf"><i class="ai ai-cv-square ai-2x"></i></a>
       <a href="https://www.linkedin.com/in/yongjie-zheng-119489299/?originalSubdomain=it"><i class="fa-brands fa-linkedin fa-2x"></i></a>
-      <a href="https://scholar.google.com/citations?user=XXXXXXX"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+      <a href="https://scholar.google.com/citations?view_op=search_authors&mauthors=yongjie+zheng+trento&hl=zh-CN&oi=ao"><i class="ai ai-google-scholar-square ai-2x"></i></a>
       <a href="https://github.com/MissYongjie/"><i class="fa-brands fa-square-github fa-2x"></i></a>
       <a href="https://www.researchgate.net/profile/Yongjie-Zheng-5"><i class="ai ai-researchgate-square ai-2x"></i></a>
       <a href="https://orcid.org/0000-0002-7030-6713"><i class="ai ai-orcid-square ai-2x"></i></a>
