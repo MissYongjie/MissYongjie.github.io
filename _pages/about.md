@@ -10,7 +10,7 @@ profile:
   image: bio_1.jpg # bio_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info : >
-      <a href="/assets/pdf/cv.pdf"><i class="ai ai-cv-square ai-2x"></i></a>
+      <a href="/assets/pdf/Academic_CV_Yongjie.pdf"><i class="ai ai-cv-square ai-2x"></i></a>
       <a href="https://www.linkedin.com/in/yongjie-zheng-119489299/?originalSubdomain=it"><i class="fa-brands fa-linkedin fa-2x"></i></a>
       <a href="https://scholar.google.com/citations?user=XXXXXXX"><i class="ai ai-google-scholar-square ai-2x"></i></a>
       <a href="https://github.com/MissYongjie/"><i class="fa-brands fa-square-github fa-2x"></i></a>
@@ -88,7 +88,7 @@ Her **research interests**:
   <tr>
     <td>2021.06 - 2022.06</td>
     <td>Machine Learning Engineer</td>
-    <td><a href="https://www.fabric-eyes.com/">Shanghai Fabric Eyes Artificial Intelligence Technology Co., Ltd</a></td>
+    <td><a href="https://www.fabriceyes.com.cn/gsjj">Shanghai Fabric Eyes Artificial Intelligence Technology Co., Ltd</a></td>
     <td>China</td>
   </tr>
 </table>
