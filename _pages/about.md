@@ -122,6 +122,7 @@ Her **research interests**:
 ---
 ### Reviewing Activities  
 - **ISPRS** Journal of Photogrammetry and Remote Sensing
+- **ISPRS** International Journal of Applied Earth Observation and Geoinformation (JAG)
 - **IEEE** Transactions on Geoscience and Remote Sensing (TGRS)
 - **IEEE** Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
 - **IEEE** Geoscience and Remote Sensing Letters (GRSL)
