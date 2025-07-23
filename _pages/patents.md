@@ -10,8 +10,6 @@ nav_order: 3
 
 Below is a list of granted and pending patents.
 
-‡: Advisor first, student second.
-
 ---
 
 1. **A Novel Change Detection Method for Burned Area based on SWIR Bands of Landsat-8 OLI**  
