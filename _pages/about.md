@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Student@unitn.it, Academic Visitor@tu-berlin.de, Master@tongji.edu.cn
+subtitle: Ph.D.@unitn.it, Academic Visitor@tu-berlin.de, Master@tongji.edu.cn
 
 
 profile:
