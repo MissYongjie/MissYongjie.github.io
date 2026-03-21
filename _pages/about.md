@@ -95,6 +95,9 @@ Her **research interests**:
 
 ---
 ### Project Experiences 
+- **2025 – 2026** – **European Space Agency Climate Change Initiative Extension** (HR_LandCover_cci)
+  - Designed methods for high-resolution land cover recognition and classification based on Earth Observation data;
+  - Developed land cover change detection approaches for regional-scale climate modelling applications.
 - **2021 – 2024** – **National Natural Science Foundation of China** (42071324)
   - Designed an automatic shallow-deep feature fusion network for VHR image classification;
   - Designed an automatic multi-temporal feature fusion network for multi-temporal image classification.
@@ -121,6 +124,7 @@ Her **research interests**:
 
 ---
 ### Reviewing Activities  
+- **Elsevier** Information Fusion (INFORM FUSION)
 - **Elsevier** Journal of Photogrammetry and Remote Sensing (ISPRS)
 - **Elsevier** International Journal of Applied Earth Observation and Geoinformation (JAG)
 - **IEEE** Transactions on Geoscience and Remote Sensing (TGRS)
